@@ -1,0 +1,6 @@
+git remote remove origin 2>/dev/null
+git remote add origin https://github.com/Gaurav-2022/courses.git
+git remote -v
+git add .
+git commit -m "initial commit"
+git push -u origin develop
