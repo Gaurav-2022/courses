@@ -4,3 +4,5 @@ git remote -v
 git add .
 git commit -m "initial commit"
 git push -u origin develop
+
+git remote set-url origin https://<TOKEN>@github.com/Gaurav-2022/courses.git
